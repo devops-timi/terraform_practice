@@ -6,7 +6,9 @@ terraform {
     }
   }
 }
-How to write output.tf and variable.tf and other .tf files?
+
+# How to write output.tf and variable.tf and other .tf files?
+
 provider "aws" {
   region = var.region
 }
